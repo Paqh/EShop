@@ -6,8 +6,7 @@ const Logo = () => {
 <metadata>
 Created by potrace 1.16, written by Peter Selinger 2001-2019
 </metadata>
-<g transform="translate(0.000000,631.000000) scale(0.100000,-0.100000)"
-fill="white" stroke="none">
+<g transform="translate(0.000000,631.000000) scale(0.100000,-0.100000)" stroke="none">
 <path d="M3317 5896 c-38 -14 -56 -27 -161 -113 -49 -40 -71 -68 -123 -163
 -78 -143 -110 -224 -168 -431 -83 -294 -154 -753 -180 -1164 l-7 -100 -248 3
 -249 4 -95 -46 c-52 -25 -112 -63 -133 -83 -219 -217 -363 -502 -428 -847 -36
